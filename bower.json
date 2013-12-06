@@ -1,0 +1,8 @@
+{
+  "name": "redmine-linker",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+  	"jquery": "1.10.1"
+  }
+}

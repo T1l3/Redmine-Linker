@@ -1,0 +1,11 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+
+html {
+    /* Defaults css for cssmin process */
+}
+
+.redmine-link{
+	font-size:12px;
+	color: #999;
+	margin-left: 10px;
+}
