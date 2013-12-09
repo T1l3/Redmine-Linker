@@ -27,8 +27,7 @@
             "19": "images/redmineicon-19.png",
             "38": "images/redmineicon-38.png"
         },
-        "default_title": "Redmine Linker",
-        "default_popup": "popup.html"
+        "default_title": "Redmine Linker"
     },
     "content_scripts": [
         {

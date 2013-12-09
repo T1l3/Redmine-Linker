@@ -2,17 +2,17 @@
 <html>
 	<head>
 		<title>Redmine Linker Extension Options</title>
-		<script src="bower_components/jquery/jquery.min.js"></script>
-        <!-- build:js scripts/options.js -->
-        <script src="scripts/options.js"></script>
-        <!-- endbuild -->
 	</head>
 	<body>
 		<form>
 			<label for="redmine_url">Redmine URL:</label>
-			<input type="text" name="redmine_url" id="redmine_url" value="" placeholder="ex: http://redmine.example.com/issues/">
+			<input type="text" name="redmine_url" id="redmine_url" placeholder="ex: http://redmine.example.com/issues/">
 		</form>
 		<div id="status"></div>
 		<button id="save">Save</button>
+		<script src="bower_components/jquery/jquery.min.js"></script>
+        <!-- build:js scripts/options.js -->
+        <script src="scripts/options.js"></script>
+        <!-- endbuild -->
 	</body>
 </html>
