@@ -12,4 +12,4 @@ This app is developped with [yeoman generator-chrome-extension](https://github.c
 
 Build the app:
 
-	grunt server
+	grunt build
